@@ -7,4 +7,8 @@ consola interactiva de python
     py en cmder
     salir de la consola
         exit()
-    
+tipos de datos primitivos
+    numeros enteros
+    numeros de punto flotante
+    textos (cadenas de caracteres)
+    booleanos
