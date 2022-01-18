@@ -1,5 +1,7 @@
 edad = int(input("edad :"))
 if edad > 17:
-    print("mas de 17")
+    print("mayor de edad")
+elif edad == 17:
+    print("17")
 else:
-    print("menor de 17")
+    print("menos de edad")
