@@ -14,3 +14,5 @@ tipos de datos primitivos
     booleanos
 trabajando con slice
     cadena[inicio:fin:salto]
+palindromo
+    
