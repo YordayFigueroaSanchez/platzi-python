@@ -12,3 +12,5 @@ tipos de datos primitivos
     numeros de punto flotante
     textos (cadenas de caracteres)
     booleanos
+trabajando con slice
+    cadena[inicio:fin:salto]
