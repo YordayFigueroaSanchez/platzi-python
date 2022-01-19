@@ -15,4 +15,5 @@ tipos de datos primitivos
 trabajando con slice
     cadena[inicio:fin:salto]
 palindromo
-    
+bucles
+    while    
