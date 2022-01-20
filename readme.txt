@@ -31,3 +31,5 @@ tuplas
     entre parentisis
     estaticos (no se modifican)(inmutable)
     mas eficiente para ciclos
+diccionarios
+    
