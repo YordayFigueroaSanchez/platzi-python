@@ -21,3 +21,5 @@ bucles
     for en cadena    
     interumpir ciclos break y continue
 primalidad
+proyecto videojuego
+    adivina un numero
