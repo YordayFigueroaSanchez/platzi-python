@@ -16,4 +16,5 @@ trabajando con slice
     cadena[inicio:fin:salto]
 palindromo
 bucles
-    while    
+    while
+    for    
