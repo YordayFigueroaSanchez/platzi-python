@@ -27,3 +27,7 @@ lista
     estructura de datos
     append - para agregar a la lista
     pop - para eliminar de la lista
+tuplas
+    entre parentisis
+    estaticos (no se modifican)(inmutable)
+    mas eficiente para ciclos
