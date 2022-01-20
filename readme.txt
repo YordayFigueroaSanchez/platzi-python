@@ -20,3 +20,4 @@ bucles
     for
     for en cadena    
     interumpir ciclos break y continue
+primalidad
