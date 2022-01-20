@@ -23,3 +23,7 @@ bucles
 primalidad
 proyecto videojuego
     adivina un numero
+lista
+    estructura de datos
+    append - para agregar a la lista
+    pop - para eliminar de la lista
