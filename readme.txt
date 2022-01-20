@@ -32,4 +32,4 @@ tuplas
     estaticos (no se modifican)(inmutable)
     mas eficiente para ciclos
 diccionarios
-    
+generador de contrasenna
